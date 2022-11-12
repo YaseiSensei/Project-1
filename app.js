@@ -25,6 +25,7 @@ export default async  function getData(user_Id){
     var user= await getUser(user_Id);
     var post = await getPost(user_Id);
 
+    //hey
    
     
 
